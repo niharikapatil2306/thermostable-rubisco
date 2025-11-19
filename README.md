@@ -13,7 +13,6 @@ The approach combines:
 - Thermostability prediction using random forest regression
 
 ## Repository Structure
-
 ```
 thermostable-rubisco/
 ├── src/
@@ -208,7 +207,7 @@ If you use this code in your research, please cite:
 @software{thermostable_rubisco,
   author = {Patil, Niharika},
   title = {Thermostable RuBisCO Protein Engineering},
-  year = {2024},
+  year = {2025},
   url = {https://github.com/niharikapatil2306/thermostable-rubisco}
 }
 ```
